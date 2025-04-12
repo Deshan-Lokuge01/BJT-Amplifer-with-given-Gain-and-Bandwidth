@@ -1,42 +1,61 @@
-The Common Emitter BJT Amplifier design method is covered in this study. 
+# Common Emitter BJT Amplifier Design
 
-#Voltage gain       =  385 
+A study of BJT amplifier design in Common Emitter configuration with:  
+✅ **Voltage gain** = 385  
+✅ **Bandwidth** = 6MHz  
 
-#Bandwidth of low pass filter   =  6MHz 
+---
 
-OBJECTIVES :
+## 📌 Objectives
+- Research BJT characteristics and CE configuration fundamentals
+- Design a circuit meeting specified bandwidth requirements
+- Calculate component values with minimal error
+- Simulate using Proteus software
+- Implement PCB design with high output precision
 
-▪ Research BJT attributes and learn the fundamentals of CE configuration. Choose a task that has enough bandwidth to finish the assigned work.  
-▪ Determine component values with reduced error.  
-▪ Use Proteus software to simulate the circuit. o Build the circuit utilizing conventional PCB circuit design methods.  
-▪ Show off the finished circuit with the highest level of output precision. 
+---
 
- METHODOLOGY :
- 
-▪ Study about CE amplifier circuits of BJT.  
-▪ Calculate values of components according to the task  
-▪ Provide proper assumptions.   
-▪ Create Proteus design using calculated component values.  
-▪ Observe the frequency response curve and get the required observations.  
-▪ Implement the final PCB design. 
+## 🔧 Methodology
+1. **Theoretical Study**  
+   - Analyze CE amplifier circuits
+   - Derive component calculations
 
-#Picture_01 : Proteus_Sketch
-#
-![Description of Screenshot 1](https://github.com/Deshan-Lokuge01/BJT-Amplifer-with-given-Gain-and-Bandwidth/blob/master/Proteus_Sketch.jpg?raw=true)
-#
-#Picture_02 : Oscilloscope_Output_on_Proteus
-#
-![Description of Screenshot 1](https://github.com/Deshan-Lokuge01/BJT-Amplifer-with-given-Gain-and-Bandwidth/blob/master/Oscilloscope_Output_on_Proteus.jpg?raw=true)
-#
-#Picture_03 : Frequency_and_Gain_Output_on_the_Sketch
-#
-![Description of Screenshot 1](https://github.com/Deshan-Lokuge01/BJT-Amplifer-with-given-Gain-and-Bandwidth/blob/master/Frequency_and_Gain_Output_on_the_sketch.jpg?raw=true)
-#
-#Picture_04 : PCB_Design
-#
-![Description of Screenshot 1](https://github.com/Deshan-Lokuge01/BJT-Amplifer-with-given-Gain-and-Bandwidth/blob/master/PCB_Design.png?raw=true)
-#
-#Picture_05 : Experimental_Results_After_Building_PCB
-#
-![Description of Screenshot 1](https://github.com/Deshan-Lokuge01/BJT-Amplifer-with-given-Gain-and-Bandwidth/blob/master/Experimental_Results_After_Building_PCB.jpg?raw=true)
-#
+2. **Simulation**  
+   - Proteus circuit design  
+   - Frequency response analysis  
+
+3. **Implementation**  
+   - PCB fabrication  
+   - Experimental validation  
+
+---
+
+## 🖼️ Circuit Visualizations
+
+<div align="center">
+
+### Proteus Design Sketch
+<img src="https://github.com/Deshan-Lokuge01/BJT-Amplifer-with-given-Gain-and-Bandwidth/raw/master/Proteus_Sketch.jpg" width="500" alt="Proteus Circuit Diagram">
+
+### Oscilloscope Output
+<img src="https://github.com/Deshan-Lokuge01/BJT-Amplifer-with-given-Gain-and-Bandwidth/raw/master/Oscilloscope_Output_on_Proteus.jpg" width="500" alt="Oscilloscope Waveforms">
+
+### Frequency & Gain Response
+<img src="https://github.com/Deshan-Lokuge01/BJT-Amplifer-with-given-Gain-and-Bandwidth/raw/master/Frequency_and_Gain_Output_on_the_sketch.jpg" width="500" alt="Frequency Response Curve">
+
+### PCB Design
+<img src="https://github.com/Deshan-Lokuge01/BJT-Amplifer-with-given-Gain-and-Bandwidth/raw/master/PCB_Design.png" width="500" alt="PCB Layout">
+
+### Experimental Results
+<img src="https://github.com/Deshan-Lokuge01/BJT-Amplifer-with-given-Gain-and-Bandwidth/raw/master/Experimental_Results_After_Building_PCB.jpg" width="500" alt="PCB Implementation Results">
+
+</div>
+
+---
+
+## 📝 Key Features
+- **Precision Design**: Component values optimized for minimal error
+- **Verification**: Both simulation and physical implementation
+- **Documentation**: Complete design process transparency
+
+---
