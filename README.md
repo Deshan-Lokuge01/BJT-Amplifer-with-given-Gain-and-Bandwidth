@@ -21,12 +21,22 @@ OBJECTIVES :
 ▪ Implement the final PCB design. 
 
 #Picture_01 : Proteus_Sketch
-
+#
+![Description of Screenshot 1](https://github.com/Deshan-Lokuge01/BJT-Amplifer-with-given-Gain-and-Bandwidth/blob/master/Proteus_Sketch.jpg?raw=true)
+#
 #Picture_02 : Oscilloscope_Output_on_Proteus
-
+#
+![Description of Screenshot 1](https://github.com/Deshan-Lokuge01/BJT-Amplifer-with-given-Gain-and-Bandwidth/blob/master/Oscilloscope_Output_on_Proteus.jpg?raw=true)
+#
 #Picture_03 : Frequency_and_Gain_Output_on_the_Sketch
-
+#
+![Description of Screenshot 1](https://github.com/Deshan-Lokuge01/BJT-Amplifer-with-given-Gain-and-Bandwidth/blob/master/Frequency_and_Gain_Output_on_the_sketch.jpg?raw=true)
+#
 #Picture_04 : PCB_Design
-
+#
+![Description of Screenshot 1](https://github.com/Deshan-Lokuge01/BJT-Amplifer-with-given-Gain-and-Bandwidth/blob/master/PCB_Design.png?raw=true)
+#
 #Picture_05 : Experimental_Results_After_Building_PCB
-
+#
+![Description of Screenshot 1](https://github.com/Deshan-Lokuge01/BJT-Amplifer-with-given-Gain-and-Bandwidth/blob/master/Experimental_Results_After_Building_PCB.jpg?raw=true)
+#
