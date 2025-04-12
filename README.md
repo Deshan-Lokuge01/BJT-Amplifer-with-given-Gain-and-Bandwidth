@@ -2,7 +2,7 @@
 
 A study of BJT amplifier design in Common Emitter configuration with:  
 ✅ **Voltage gain** = 385  
-✅ **Bandwidth** = 6MHz  
+✅ **Bandwidth** = 6 MHz  
 
 ---
 
@@ -43,6 +43,30 @@ A study of BJT amplifier design in Common Emitter configuration with:
 ### Frequency & Gain Response
 <img src="https://github.com/Deshan-Lokuge01/BJT-Amplifer-with-given-Gain-and-Bandwidth/raw/master/Frequency_and_Gain_Output_on_the_sketch.jpg" width="500" alt="Frequency Response Curve">
 
+**Simulation Observations**  
+<table>
+  <tr>
+    <th>Parameter</th>
+    <th>Value</th>
+  </tr>
+  <tr>
+    <td>Pass band gain</td>
+    <td>51.8dB (≈385)</td>
+  </tr>
+  <tr>
+    <td>Lower cutoff frequency</td>
+    <td>338 Hz</td>
+  </tr>
+  <tr>
+    <td>Higher cutoff frequency</td>
+    <td>6.53 MHz</td>
+  </tr>
+  <tr>
+    <td>Bandwidth</td>
+    <td>6.52 MHz</td>
+  </tr>
+</table>
+
 ### PCB Design
 <img src="https://github.com/Deshan-Lokuge01/BJT-Amplifer-with-given-Gain-and-Bandwidth/raw/master/PCB_Design.png" width="500" alt="PCB Layout">
 
@@ -57,5 +81,6 @@ A study of BJT amplifier design in Common Emitter configuration with:
 - **Precision Design**: Component values optimized for minimal error
 - **Verification**: Both simulation and physical implementation
 - **Documentation**: Complete design process transparency
+- **Performance**: <3% deviation between simulation and hardware
 
 ---
